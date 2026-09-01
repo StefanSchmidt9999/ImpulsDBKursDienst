@@ -38,7 +38,7 @@
 #undef GetCurrentTime
 
 
-#define SERVICE_NAME L"ImpulsDBDienst"
+#define SERVICE_NAME L"ImpulsDBKursDienst"
 
 SERVICE_STATUS gStatus = {};
 SERVICE_STATUS_HANDLE gStatusHandle = nullptr;
